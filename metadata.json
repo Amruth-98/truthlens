@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "Credibility & veracity analysis platform for news articles with multi-model probability scoring, verification timelines, and social propagation network mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
